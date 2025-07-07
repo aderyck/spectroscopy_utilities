@@ -1,4 +1,4 @@
-InteractPlot4Lines <- function(df, x, y, group,
+InteractPlot4Hyperparameters <- function(df, x, y, group,
                                name       = "",
                                xlab       = x,
                                ylab       = y,
